@@ -1,0 +1,35 @@
+/* [project]/app/ui/styles.module.css [app-client] (css) */
+.styles-module__mPwUZW__background1 {
+  min-width: 100vw;
+  min-height: 60vh;
+  background-image: url("/_next/static/media/bg-home.49c21a29.PNG");
+  background-position: center;
+  background-size: cover;
+  border-top: 4px dotted #00f;
+  border-bottom: 4px dotted #00f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 100px;
+}
+
+.styles-module__mPwUZW__background2 {
+  min-width: 100vw;
+  min-height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("/_next/static/media/yeloow-bg.ded87b68.jpg");
+  background-size: cover;
+  background-position: center;
+  opacity: .8;
+}
+
+.styles-module__mPwUZW__footer {
+  background: #000;
+  padding-top: 40px;
+  padding-bottom: 50px;
+}
+
+
+/*# sourceMappingURL=app_ui_styles_module_1feab4.css.map*/
